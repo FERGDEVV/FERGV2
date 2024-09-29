@@ -103,7 +103,7 @@ local ESPToggle = MainTab:CreateToggle({
 })
 
 local Button = MainTab:CreateButton({
-    Name = "➡️ Box ESP",
+    Name = "➡️ INFINITE YIELD",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/FERGDEVV/INFINITE-YIELD/refs/heads/main/V6"))()
     end,
